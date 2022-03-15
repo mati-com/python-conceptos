@@ -1,0 +1,6 @@
+print ("Ingresa el primer valor")
+num1 = int(input())
+print ("Ingresa el segundo valor")
+num2 = float(input())
+resultado = num1 + num2 #Aqui se puede cambiar el operador por multiplicando, dividiendo, etc
+print("el resultado es: " + str(resultado))
